@@ -325,6 +325,10 @@ footer .derechos {
         color: white;
     }
 
+    #menu {
+        display: initial;
+    }
+    
     #menu:checked ~ nav {
         display: block;
     }
@@ -409,4 +413,5 @@ footer .derechos {
         margin: 30px;
     }
 }
+
 
