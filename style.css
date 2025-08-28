@@ -325,7 +325,7 @@ footer .derechos {
         color: white;
     }
 
-    #menu {
+    #menu label {
         display: initial;
     }
     
@@ -413,5 +413,6 @@ footer .derechos {
         margin: 30px;
     }
 }
+
 
 
